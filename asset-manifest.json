@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/printer/static/css/main.2661cfc7.css",
-    "main.js": "/printer/static/js/main.ebeb22f5.js",
+    "main.js": "/printer/static/js/main.667c1838.js",
     "static/media/retouchwall4.jpg": "/printer/static/media/retouchwall4.2bb50888ec7ff85f1d94.jpg",
     "static/media/backgroundAbstract2.png": "/printer/static/media/backgroundAbstract2.da73f1b7f759b9953dd6.png",
     "static/media/retouchwall.jpg": "/printer/static/media/retouchwall.458f7a8a7b15c8e9484a.jpg",
@@ -32,10 +32,10 @@
     "static/media/website6.webp": "/printer/static/media/website6.d7a8fb06602e7efdcc59.webp",
     "index.html": "/printer/index.html",
     "main.2661cfc7.css.map": "/printer/static/css/main.2661cfc7.css.map",
-    "main.ebeb22f5.js.map": "/printer/static/js/main.ebeb22f5.js.map"
+    "main.667c1838.js.map": "/printer/static/js/main.667c1838.js.map"
   },
   "entrypoints": [
     "static/css/main.2661cfc7.css",
-    "static/js/main.ebeb22f5.js"
+    "static/js/main.667c1838.js"
   ]
 }
