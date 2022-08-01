@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/printer/static/css/main.2661cfc7.css",
+    "main.js": "/printer/static/js/main.ebeb22f5.js",
+    "static/media/retouchwall4.jpg": "/printer/static/media/retouchwall4.2bb50888ec7ff85f1d94.jpg",
+    "static/media/backgroundAbstract2.png": "/printer/static/media/backgroundAbstract2.da73f1b7f759b9953dd6.png",
+    "static/media/retouchwall.jpg": "/printer/static/media/retouchwall.458f7a8a7b15c8e9484a.jpg",
+    "static/media/retouchwall5.jpg": "/printer/static/media/retouchwall5.ea127cbbbd3bc4e0e0a1.jpg",
+    "static/media/flyers2.webp": "/printer/static/media/flyers2.d5685e87e32fe2a018fd.webp",
+    "static/media/vCard2.jpg": "/printer/static/media/vCard2.fbdecbb63cf1c661dc93.jpg",
+    "static/media/website4.webp": "/printer/static/media/website4.81dc0144148041691dcf.webp",
+    "static/media/retouchwall2.webp": "/printer/static/media/retouchwall2.426a2653082196f7b0e8.webp",
+    "static/media/vCard.webp": "/printer/static/media/vCard.fb5b03e340ac1548e33a.webp",
+    "static/media/vCard4.webp": "/printer/static/media/vCard4.40ef9fffb20cf39122eb.webp",
+    "static/media/flyers3.webp": "/printer/static/media/flyers3.2f0565b9b31773f4d878.webp",
+    "static/media/website2.webp": "/printer/static/media/website2.04ad1d59e2f2d6fb1ad9.webp",
+    "static/media/flyers.webp": "/printer/static/media/flyers.77279dc314d66ea3e184.webp",
+    "static/media/logo.webp": "/printer/static/media/logo.abbbe39b856c30eceed9.webp",
+    "static/media/impression.webp": "/printer/static/media/impression.6a1b49ebed5ab4cc362e.webp",
+    "static/media/website3.webp": "/printer/static/media/website3.2304aa16a0258b5bb4cb.webp",
+    "static/media/flyers4.webp": "/printer/static/media/flyers4.70fc4453fcc4e9cc37b6.webp",
+    "static/media/retouchwall3.webp": "/printer/static/media/retouchwall3.f0766175779449f5980b.webp",
+    "static/media/website.webp": "/printer/static/media/website.f398afe9bc42319afaf2.webp",
+    "static/media/logo4.webp": "/printer/static/media/logo4.82a2114549d3482d9f75.webp",
+    "static/media/logo3.webp": "/printer/static/media/logo3.e9f34441ca610b077b0a.webp",
+    "static/media/website5.webp": "/printer/static/media/website5.7f21cdc616ef7a9aad2f.webp",
+    "static/media/impression3.jpg": "/printer/static/media/impression3.cd3352d2781525e3c72f.jpg",
+    "static/media/vCard3.webp": "/printer/static/media/vCard3.7453b2102235173b2308.webp",
+    "static/media/logo2.webp": "/printer/static/media/logo2.11e561c0c2fec81a2df1.webp",
+    "static/media/impression4.webp": "/printer/static/media/impression4.a570611d9313731318ba.webp",
+    "static/media/impression2.webp": "/printer/static/media/impression2.2a5b36eaf6c9d1089770.webp",
+    "static/media/website6.webp": "/printer/static/media/website6.d7a8fb06602e7efdcc59.webp",
+    "index.html": "/printer/index.html",
+    "main.2661cfc7.css.map": "/printer/static/css/main.2661cfc7.css.map",
+    "main.ebeb22f5.js.map": "/printer/static/js/main.ebeb22f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2661cfc7.css",
+    "static/js/main.ebeb22f5.js"
+  ]
+}
